@@ -1,0 +1,1 @@
+# parsec-linux-AppImage
